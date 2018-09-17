@@ -60,3 +60,13 @@ Go make yourself some friends or you'll be lonely
 Once I was seven years old
 Once I was seven years old
 
+===================
+#Jerry's Lyrics
+
+print "She used to shoppin' at the mall (ooh)
+I'll teach lil' baby how to ball
+I hit Rodeo, spent like 40 G's (wow)
+Four hunnid pairs of Gucci socks
+I lost all my friends, made a lot of foes
+Made a lot of M's, made a lot of O's" 
+###The song is actually good, check out "92 Explorer"!
